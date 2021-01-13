@@ -1,2 +1,3 @@
-# ctci-6th-edition-ruby
-Cracking the Coding Interview - Ruby Edition
+# CTCI 6th
+
+> Cracking the Coding Interview - Ruby Edition
